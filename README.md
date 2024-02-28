@@ -1,3 +1,6 @@
+A bucket store application is developed using Next.js with TypeScript. The user interface (UI) is designed using MaterialUI, and the application's state management is handled by Redux Toolkit. Link: https://bucket-store-ahmadsh.vercel.app/
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
